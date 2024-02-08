@@ -26,9 +26,7 @@ web3.0 SNS 을 만들기 위한 토대로써, web2 기반입니다.
 
 ## 👨‍👦‍👦개발 기간 및 개발 인원
 
-08.18 ~ 09.05 JSP&REACT&SB 0.0.1 버전 완료    
-08.25 ~  FE : REACT,PHASER / BE : Spring Boot , GIN 1.0.1 버전 개발중
-
+08.18 ~ 09.05 JSP&REACT&SB 0.0.1 버전 7인 개발 완료    
 soyoung0420 - PM,DBA,Dev(Be,Fe)   
 GRyu1 - PL,AA,DBA,Dev(Be,Fe)   
 ejum01 - DBA,Dev(Be,Fe)      
@@ -36,6 +34,10 @@ eunc823 - DBA,Dev(Be,Fe)
 hongseungyoung - DBA,Dev(Be,Fe)      
 joohyee - DBA,Dev(Be,Fe)      
 username98865 - DBA,Dev(Be,Fe)      
+
+08.25 ~ 1.04 1인 개발완료
+
+
 
 ## 💻개발 환경
 - windows10
@@ -58,11 +60,11 @@ username98865 - DBA,Dev(Be,Fe)
 - JS
 
 ### Back End
-- JAVA 11, Spring Boot 2.7.14
-- Spring Security
-- MyBatis
-- Lombok
-- STOMP
+- JAVA 17, Spring Boot 3.1.4
+- Spring Cloud
+- JPA
+- MySQL
+- S3
   
 - GO 1.24
 - GIN
@@ -72,38 +74,30 @@ username98865 - DBA,Dev(Be,Fe)
 - Gradle
 
 ### Data Base
-- Oracle 21C
+- MySQL
 - Mongo DB
 - Redis
 - Amazon S3
 
 ## 💿아키텍쳐
-- Project
- ![파이널_쏘이스토리_최종발표-001](https://github.com/z352YangComapny/yangOffice/assets/125647772/12a96cda-7185-41dc-bbb0-efc94e357e06)
-- Spring Server
- ![파이널_쏘이스토리_최종발표-002](https://github.com/z352YangComapny/yangOffice/assets/125647772/c7e41629-149c-4211-92c0-d7546fa0a3fc)
-- GIN Server
-  ![파이널_쏘이스토리_최종발표-003](https://github.com/z352YangComapny/yangOffice/assets/125647772/4defba48-07f0-404b-bb50-e9c738510989)
+ - ![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/8986eeaf-36ce-465d-9aa6-1adcac982189)
 
 ## 🔑E-R 다이어그램
 - https://www.erdcloud.com/d/29Wk3hSMH9Nn4KmyF
-![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/4e71cdfe-0c0c-4340-9703-4d182fb1d712)
+![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/fc1d03e0-17fe-4753-b32e-438588c72f29)
+
 ## 💎Api 명세서
 - 준비중
 ## 🌏OVERVIEW
 |INDEX|
 |:---:|
-|![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/e43f07b1-1259-470d-aa21-07b3e96c4b07)|
-|SIGN IN|
-|![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/834683a9-64f1-47f6-8125-4239b3b40071)|
-|SIGN UP|
-|![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/fda8826e-af27-40ec-b419-d1190644ca96)|   
+|![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/6d5f1677-706e-4947-9c1c-7491f3566f53)|
 |FEED|
-|![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/0049c987-655e-428e-9705-41e8d145fb09)|   
+|![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/66469348-5aa4-4fc1-9d52-cfe9929adf40)|   
 |USER|
-|![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/c9c9d4ce-6832-4848-9567-d0631c209805)|
+|![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/6558ec8b-a427-42fa-9dcb-fd61a23fdc3d)|
 |WORLD|
-|![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/b979390c-021a-415d-86e8-a0d1079cae5b)|
+|![image](https://github.com/z352YangComapny/yangOffice/assets/125647772/33f7514e-608f-4065-975f-6d83244ff1c3)|
 
 ## 👓프로젝트 목적
 'Dev-Grow' 성장함에 따라 얻은 지식 및 기술스택을 적용해보고, 소통 할 수 있는 공간을 만들어갑니다.
